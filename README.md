@@ -1,0 +1,2 @@
+# fortuneTeller
+ Javascript Exercise
